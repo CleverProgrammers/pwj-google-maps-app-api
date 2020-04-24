@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+dist
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+.DS_Store
+
+.env
