@@ -1,4 +1,4 @@
-# My Blog API
+# Google Maps Store Locator 
 
 ## Initialization
 
@@ -12,9 +12,7 @@ Navigate to `exercise` folder
 
 Open Terminal
 
-    npm init
-    npm install --save express
-    npm install --save multer
+    npm install
     npm install -g nodemon
 
 Create `app.js` file    
